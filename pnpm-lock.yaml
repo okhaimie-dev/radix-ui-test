@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@radix-ui/colors': ^1.0.0
   '@radix-ui/react-popover': 1.0.6
   '@types/node': 20.3.3
   '@types/react': 18.2.14
@@ -16,6 +17,7 @@ specifiers:
   typescript: 5.1.6
 
 dependencies:
+  '@radix-ui/colors': 1.0.0
   '@radix-ui/react-popover': 1.0.6_hrrtw4it2dqo6rzcqzvl36ff7i
   '@types/node': 20.3.3
   '@types/react': 18.2.14
@@ -283,6 +285,10 @@ packages:
       open: 9.1.0
       picocolors: 1.0.0
       tslib: 2.6.0
+    dev: false
+
+  /@radix-ui/colors/1.0.0:
+    resolution: {integrity: sha512-l8Rfw7zR6sfPsbXrBq3Xit96Xo+CSFyRFqRX/ls8W/w+HXzbwc5dbVvl+qRjsSIRoC9EiTMRV/QpJHziuTjoqg==}
     dev: false
 
   /@radix-ui/primitive/1.0.1:
